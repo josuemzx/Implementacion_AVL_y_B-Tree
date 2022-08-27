@@ -18,7 +18,7 @@
  - Jorge Luis Zegarra Guardamino
  - Nestor Giraldo Calcinas Huaranga
 
-## 2. Ejercicios
+## 2. Estructuras de datos:
 
 ### 2.1. Árbol - ALV
 
