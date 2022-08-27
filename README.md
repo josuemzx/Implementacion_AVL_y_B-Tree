@@ -37,3 +37,8 @@ Los nodos hoja tienen la misma restricción sobre el número de elementos, pero 
 El nodo raíz tiene límite superior de número de hijos, pero no tiene límite inferior.
 Los Los árboles B-Tree guardan valores en cada nodo, y pueden utilizar la misma estructura para todos los nodos.
 
+#### 2.2.1. Visualización B-Tree
+
+https://josuemzx.github.io/Implementacion_AVL_y_B-Tree/
+
+
