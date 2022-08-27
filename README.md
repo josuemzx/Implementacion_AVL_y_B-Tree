@@ -39,6 +39,4 @@ Los Los árboles B-Tree guardan valores en cada nodo, y pueden utilizar la misma
 
 #### 2.2.1. Visualización B-Tree
 
-https://josuemzx.github.io/Implementacion_AVL_y_B-Tree/
-
-<a href="http://www.emezeta.com/">Emezeta</a>
+<a href="https://josuemzx.github.io/Implementacion_AVL_y_B-Tree/">Visualizacion B-Tree en JavaScript</a>
