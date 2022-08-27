@@ -70,10 +70,8 @@ function createdMinButton() {
 
 function minButtonPressed() {
   if(running) return;
-  const value = parseInt(minInput.value());
-  if (!Number.isNaN(value)) {
-    //tree.delete(value);
-  }
+  tree.busqueda(parseInt(tree.getMin()));
+  console.log("El menor es: ",parseInt(tree.getMin()))
 }
 
 function createdMaxButton() {
@@ -85,10 +83,9 @@ function createdMaxButton() {
 
 function maxButtonPressed() {
   if(running) return;
-  const value = parseInt(maxInput.value());
-  if (!Number.isNaN(value)) {
+    tree.busqueda(parseInt(tree.getMax()));
     //tree.delete(value);
-  }
+  console.log("El mayor es",parseInt(tree.getMax()))
 }
 
 function createSearchInput() {

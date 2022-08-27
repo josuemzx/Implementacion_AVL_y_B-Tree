@@ -18,7 +18,7 @@
  - Jorge Luis Zegarra Guardamino
  - Nestor Giraldo Calcinas Huaranga
 
-## 2. Ejercicios
+## 2. Estructuras de datos:
 
 ### 2.1. Árbol - ALV
 
@@ -39,6 +39,4 @@ Los Los árboles B-Tree guardan valores en cada nodo, y pueden utilizar la misma
 
 #### 2.2.1. Visualización B-Tree
 
-https://josuemzx.github.io/Implementacion_AVL_y_B-Tree/
-
-
+<a href="https://josuemzx.github.io/Implementacion_AVL_y_B-Tree/">Visualizacion B-Tree en JavaScript</a>
